@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.e9923f01.chunk.css",
+    "main.js": "/me/static/js/main.0f223b78.chunk.js",
+    "main.js.map": "/me/static/js/main.0f223b78.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.4b62b88b.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.4b62b88b.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/me/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.af7a259a.chunk.js": "/me/static/js/2.af7a259a.chunk.js",
+    "static/js/2.af7a259a.chunk.js.map": "/me/static/js/2.af7a259a.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.cc3267c94e68d1b4bb10ac9cbdb57734.js": "/me/precache-manifest.cc3267c94e68d1b4bb10ac9cbdb57734.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/me/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.e9923f01.chunk.css.map": "/me/static/css/main.e9923f01.chunk.css.map",
+    "static/js/2.af7a259a.chunk.js.LICENSE.txt": "/me/static/js/2.af7a259a.chunk.js.LICENSE.txt",
+    "static/media/hero-image.png": "/me/static/media/hero-image.6013315c.png",
+    "static/media/quakeIcon.png": "/me/static/media/quakeIcon.421a3c31.png",
+    "static/media/tnMoto.jpeg": "/me/static/media/tnMoto.3482886d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b62b88b.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.af7a259a.chunk.js",
+    "static/css/main.e9923f01.chunk.css",
+    "static/js/main.0f223b78.chunk.js"
+  ]
+}
